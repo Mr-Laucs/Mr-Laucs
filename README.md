@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="card.svg" alt="Project Status Card" width="600px" />
+  <img src="card-dark.svg" alt="Project Status Card" width="600px" />
 </p>
